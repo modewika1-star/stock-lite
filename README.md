@@ -1,4 +1,6 @@
-# 📦 My Inventory System
+# StockLite | Inventory Manager
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://mini-inventory-manager-2-mjs.vercel.app/)
 
 A small inventory-management interface exercise with controls for adding, viewing, editing, and deleting products.
 
@@ -37,8 +39,8 @@ Open `index.html` in a browser.
 ## 📁 Main files
 
 - `index.html`: inventory heading, action buttons, and product-list container.
-- `js/script.js`: referenced by the page for inventory interactions.
+- `code/js/script.js`: referenced by the page for inventory interactions.
 
-> The current HTML references `js/script.js`. Make sure that file exists in the checked-out project for the inventory buttons to perform their actions.
+> The current HTML references `code/js/script.js`. The root page loads the script from `code/js/script.js`.
 
 **Repository:** [modewika1-star/t11](https://github.com/modewika1-star/t11)
